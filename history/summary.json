@@ -22,17 +22,19 @@
     "url": "https://compile.sitebrew.ai",
     "icon": "https://icons.duckduckgo.com/ip3/compile.sitebrew.ai.ico",
     "slug": "compile-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 456,
-    "timeWeek": 360,
-    "timeMonth": 327,
-    "timeYear": 327,
-    "dailyMinutesDown": {}
+    "time": 320,
+    "timeDay": 291,
+    "timeWeek": 330,
+    "timeMonth": 320,
+    "timeYear": 320,
+    "dailyMinutesDown": {
+      "2025-01-28": 0
+    }
   }
 ]
