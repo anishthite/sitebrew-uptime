@@ -4,18 +4,20 @@
     "url": "https://sitebrew.ai",
     "icon": "https://icons.duckduckgo.com/ip3/sitebrew.ai.ico",
     "slug": "main-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 907,
-    "timeDay": 958,
-    "timeWeek": 848,
-    "timeMonth": 866,
-    "timeYear": 907,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 906,
+    "timeDay": 819,
+    "timeWeek": 829,
+    "timeMonth": 860,
+    "timeYear": 906,
+    "dailyMinutesDown": {
+      "2025-07-12": 15
+    }
   },
   {
     "name": "Compile Site",
