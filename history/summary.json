@@ -10,11 +10,11 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 941,
-    "timeDay": 911,
-    "timeWeek": 1507,
-    "timeMonth": 1119,
-    "timeYear": 941,
+    "time": 940,
+    "timeDay": 835,
+    "timeWeek": 1432,
+    "timeMonth": 1109,
+    "timeYear": 940,
     "dailyMinutesDown": {
       "2025-08-07": 24,
       "2025-07-12": 15
@@ -32,12 +32,30 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 305,
-    "timeDay": 400,
-    "timeWeek": 375,
-    "timeMonth": 323,
+    "timeDay": 345,
+    "timeWeek": 365,
+    "timeMonth": 322,
     "timeYear": 305,
     "dailyMinutesDown": {
       "2025-01-28": 244
     }
+  },
+  {
+    "name": "Backend",
+    "url": "https://back.sitebrew.ai/health",
+    "icon": "https://icons.duckduckgo.com/ip3/back.sitebrew.ai.ico",
+    "slug": "backend",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 300,
+    "timeDay": 300,
+    "timeWeek": 300,
+    "timeMonth": 300,
+    "timeYear": 300,
+    "dailyMinutesDown": {}
   }
 ]
