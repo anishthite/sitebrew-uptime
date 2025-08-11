@@ -7,6 +7,8 @@ sites:
     url: https://sitebrew.ai
   - name: Compile Site
     url: https://compile.sitebrew.ai
+  - name: Backend
+    url: https://back.sitebrew.ai/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
