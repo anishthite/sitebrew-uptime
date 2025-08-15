@@ -4,17 +4,17 @@
     "url": "https://sitebrew.ai",
     "icon": "https://icons.duckduckgo.com/ip3/sitebrew.ai.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 939,
-    "timeDay": 838,
-    "timeWeek": 821,
-    "timeMonth": 1122,
-    "timeYear": 939,
+    "time": 940,
+    "timeDay": 1166,
+    "timeWeek": 874,
+    "timeMonth": 1133,
+    "timeYear": 940,
     "dailyMinutesDown": {
       "2025-08-07": 24,
       "2025-07-12": 15
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 304,
-    "timeDay": 245,
-    "timeWeek": 267,
-    "timeMonth": 314,
-    "timeYear": 304,
+    "time": 303,
+    "timeDay": 178,
+    "timeWeek": 271,
+    "timeMonth": 313,
+    "timeYear": 303,
     "dailyMinutesDown": {
       "2025-01-28": 244
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 427,
-    "timeWeek": 319,
-    "timeMonth": 319,
-    "timeYear": 319,
+    "time": 336,
+    "timeDay": 420,
+    "timeWeek": 336,
+    "timeMonth": 336,
+    "timeYear": 336,
     "dailyMinutesDown": {}
   }
 ]
