@@ -4,7 +4,7 @@
     "url": "https://sitebrew.ai",
     "icon": "https://icons.duckduckgo.com/ip3/sitebrew.ai.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.20%",
@@ -16,6 +16,7 @@
     "timeMonth": 1122,
     "timeYear": 937,
     "dailyMinutesDown": {
+      "2025-08-20": 0,
       "2025-08-16": 79,
       "2025-08-15": 1,
       "2025-08-07": 24,
