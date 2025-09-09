@@ -9,6 +9,12 @@ sites:
     url: https://compile.sitebrew.ai
   - name: Backend
     url: https://back.sitebrew.ai/health
+  - name: Main site
+    url: https://playscape.gg
+  - name: Compile Site
+    url: https://compile.playscape.gg
+  - name: Backend
+    url: https://back.playscape.gg/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
