@@ -58,16 +58,18 @@
     "slug": "backend",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 341,
-    "timeDay": 387,
-    "timeWeek": 395,
-    "timeMonth": 330,
-    "timeYear": 341,
-    "dailyMinutesDown": {}
+    "time": 342,
+    "timeDay": 427,
+    "timeWeek": 403,
+    "timeMonth": 333,
+    "timeYear": 342,
+    "dailyMinutesDown": {
+      "2025-11-12": 0
+    }
   },
   {
     "name": "Main site",
@@ -128,15 +130,17 @@
     "slug": "backend",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 341,
-    "timeDay": 387,
-    "timeWeek": 395,
-    "timeMonth": 330,
-    "timeYear": 341,
-    "dailyMinutesDown": {}
+    "time": 342,
+    "timeDay": 427,
+    "timeWeek": 403,
+    "timeMonth": 333,
+    "timeYear": 342,
+    "dailyMinutesDown": {
+      "2025-11-12": 0
+    }
   }
 ]
