@@ -57,18 +57,20 @@
     "url": "https://back.sitebrew.ai/health",
     "icon": "https://icons.duckduckgo.com/ip3/back.sitebrew.ai.ico",
     "slug": "backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 188,
-    "timeWeek": 253,
-    "timeMonth": 284,
-    "timeYear": 323,
-    "dailyMinutesDown": {}
+    "time": 322,
+    "timeDay": 225,
+    "timeWeek": 257,
+    "timeMonth": 285,
+    "timeYear": 322,
+    "dailyMinutesDown": {
+      "2025-12-11": 0
+    }
   },
   {
     "name": "Main site",
@@ -128,17 +130,19 @@
     "url": "https://back.playscape.gg/health",
     "icon": "https://icons.duckduckgo.com/ip3/back.playscape.gg.ico",
     "slug": "backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 188,
-    "timeWeek": 253,
-    "timeMonth": 284,
-    "timeYear": 323,
-    "dailyMinutesDown": {}
+    "time": 322,
+    "timeDay": 225,
+    "timeWeek": 257,
+    "timeMonth": 285,
+    "timeYear": 322,
+    "dailyMinutesDown": {
+      "2025-12-11": 0
+    }
   }
 ]
